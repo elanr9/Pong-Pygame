@@ -17,17 +17,11 @@ Language: Python
 
 ## Installation
 
-*
-*
+*Add repository locally and run game.py file
+
 ## Content Locations
 
 * Main page is in ListView.swift
 * Individual weather page is in WeatherView.Swift
 * Data on global cities is in Cities.swift
 * Weather button is in WeatherButton.swift
-
-## Walkthrough 
-
-Example of city list, daytime forcast, and nighttime forcast:
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/86748575/168734940-7dd4f3f1-55a6-48cb-823c-91ae43e79b5c.gif)
