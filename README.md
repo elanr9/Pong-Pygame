@@ -17,7 +17,7 @@ Language: Python
 
 ## Installation
 
-*Add repository locally and run game.py file
+* Add repository locally and run game.py file
 
 ## Content Locations
 
